@@ -2,7 +2,7 @@ springdoc:
   api-docs:
     path: /api-docs
     enabled: true
-  paths-to-match: /api/context/**,/api/contextService/**
+  paths-to-match: /api/bicenc/**,/api/bicenc/**
 spring:
   data:
     rest:
